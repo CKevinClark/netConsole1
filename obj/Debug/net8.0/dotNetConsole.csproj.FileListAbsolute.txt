@@ -12,3 +12,4 @@ C:\Users\Kevin Clark\repos\dotNetConsole\obj\Debug\net8.0\refint\dotNetConsole.d
 C:\Users\Kevin Clark\repos\dotNetConsole\obj\Debug\net8.0\dotNetConsole.pdb
 C:\Users\Kevin Clark\repos\dotNetConsole\obj\Debug\net8.0\dotNetConsole.genruntimeconfig.cache
 C:\Users\Kevin Clark\repos\dotNetConsole\obj\Debug\net8.0\ref\dotNetConsole.dll
+C:\Users\Kevin Clark\repos\dotNetConsole\obj\Debug\net8.0\dotNetConsole.sourcelink.json
