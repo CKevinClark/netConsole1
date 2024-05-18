@@ -1,0 +1,14 @@
+C:\Users\Kevin Clark\repos\dotNetConsole\bin\Debug\net8.0\dotNetConsole.exe
+C:\Users\Kevin Clark\repos\dotNetConsole\bin\Debug\net8.0\dotNetConsole.deps.json
+C:\Users\Kevin Clark\repos\dotNetConsole\bin\Debug\net8.0\dotNetConsole.runtimeconfig.json
+C:\Users\Kevin Clark\repos\dotNetConsole\bin\Debug\net8.0\dotNetConsole.dll
+C:\Users\Kevin Clark\repos\dotNetConsole\bin\Debug\net8.0\dotNetConsole.pdb
+C:\Users\Kevin Clark\repos\dotNetConsole\obj\Debug\net8.0\dotNetConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Clark\repos\dotNetConsole\obj\Debug\net8.0\dotNetConsole.AssemblyInfoInputs.cache
+C:\Users\Kevin Clark\repos\dotNetConsole\obj\Debug\net8.0\dotNetConsole.AssemblyInfo.cs
+C:\Users\Kevin Clark\repos\dotNetConsole\obj\Debug\net8.0\dotNetConsole.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Clark\repos\dotNetConsole\obj\Debug\net8.0\dotNetConsole.dll
+C:\Users\Kevin Clark\repos\dotNetConsole\obj\Debug\net8.0\refint\dotNetConsole.dll
+C:\Users\Kevin Clark\repos\dotNetConsole\obj\Debug\net8.0\dotNetConsole.pdb
+C:\Users\Kevin Clark\repos\dotNetConsole\obj\Debug\net8.0\dotNetConsole.genruntimeconfig.cache
+C:\Users\Kevin Clark\repos\dotNetConsole\obj\Debug\net8.0\ref\dotNetConsole.dll
